@@ -1,0 +1,9 @@
+#Arquivos e pastas que não vão subir para o GITHUB ou GITLAB
+__pycache__
+.env
+*.sqlite3
+*.db
+.idea
+.vscode
+venv
+media
